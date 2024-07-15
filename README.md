@@ -1,6 +1,7 @@
 # Global Earthquakes
 
 A react app to visualize global earthquakes on a map in different time periods, using filtering capabilities, and provide metadata for each earthquake.
+Link : https://sankatmochak-earthquake-monitoring.netlify.app/
 
 ## Run the project
 
